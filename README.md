@@ -1,2 +1,4 @@
 # indian-railway-reservation-systemmmm
-indian railway reservation system i.e. ticket booking and seat reservation  etc.
+CBP39
+indian railway reservation system i.e. ticket booking and seat reservation syatem.
+The indian railways is one of the largest railway networks in the world, serving millions of passangers daily. however, with the increasing number of passamgers and trains, the management of railway stations and trains has become a challemnge ,specially when it comes to crowd management cleaniness, crime prevention , and work minitioring. the traditional methods of manual monitriing and servillence are time - consuming, and human erroe can lead to missed incidents, the integration of ai and ml technology can help the indian railways to overcome these challenges ai basedcctv  networks can analyse latrge amount of data in real time and provide insides intop crowd management ,crime preventing aand wiork management . the zoo could also hold education sessions about the environmental within the virtual space using pre recorded videos of techaer from arounf the world.
